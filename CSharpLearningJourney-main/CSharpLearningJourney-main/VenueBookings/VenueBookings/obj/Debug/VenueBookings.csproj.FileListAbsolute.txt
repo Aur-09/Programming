@@ -1,0 +1,10 @@
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\obj\Debug\VenueBookings.csprojAssemblyReference.cache
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\obj\Debug\VenueBookings.frmVenueBookings.resources
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\obj\Debug\VenueBookings.Properties.Resources.resources
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\obj\Debug\VenueBookings.csproj.GenerateResource.cache
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\bin\Debug\VenueBookings.exe.config
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\bin\Debug\VenueBookings.exe
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\bin\Debug\VenueBookings.pdb
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\obj\Debug\VenueBookings.dlgAddBooking.resources
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\obj\Debug\VenueBookings.exe
+T:\2026\CSIS1644\Revision\Final\VenueBookings\VenueBookings\obj\Debug\VenueBookings.pdb
